@@ -1,0 +1,80 @@
+D:\C#\ch28\TcpServer\TcpServer\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\ch28\TcpServer\TcpServer\obj\Debug\TcpServer.Form1.resources
+D:\C#\ch28\TcpServer\TcpServer\obj\Debug\TcpServer.Properties.Resources.resources
+D:\C#\ch28\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.GenerateResource.Cache
+D:\C#\ch28\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+D:\C#\ch28\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+D:\C#\ch28\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+D:\C#\ch28\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
+U:\C#\ch28\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+U:\C#\ch28\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
+U:\C#\ch28\TcpServer2\TcpServer\obj\Debug\TcpServer.exe
+U:\C#\ch28\TcpServer2\TcpServer\obj\Debug\TcpServer.pdb
+U:\C#\ch28\TcpServer2\TcpServer\obj\Debug\ResolveAssemblyReference.cache
+U:\C#\ch28\TcpServer2\TcpServer\obj\Debug\TcpServer.Form1.resources
+U:\C#\ch28\TcpServer2\TcpServer\obj\Debug\TcpServer.Properties.Resources.resources
+U:\C#\ch28\TcpServer2\TcpServer\obj\Debug\TcpServer.csproj.GenerateResource.Cache
+U:\C#\ch28\TcpServer2\TcpServer\bin\Debug\TcpServer.exe
+U:\C#\ch28\TcpServer2\TcpServer\bin\Debug\TcpServer.pdb
+U:\C#\ch28\第二个例子\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+U:\C#\ch28\第二个例子\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
+U:\C#\ch28\第二个例子新\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+U:\C#\ch28\第二个例子新\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
+U:\C#\ch28\第二个例子新\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+U:\C#\ch28\第二个例子新\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+U:\C#\ch28\第二个例子新\TcpServer\TcpServer\obj\Debug\ResolveAssemblyReference.cache
+U:\C#\ch28\第二个例子新\TcpServer\TcpServer\obj\Debug\TcpServer.Form1.resources
+U:\C#\ch28\第二个例子新\TcpServer\TcpServer\obj\Debug\TcpServer.Properties.Resources.resources
+U:\C#\ch28\第二个例子新\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.GenerateResource.Cache
+D:\C#\ch28\第二个例子新\第二个例子新\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+D:\C#\ch28\第二个例子新\第二个例子新\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
+D:\C#\ch28\第二个例子新\第二个例子新\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+D:\C#\ch28\第二个例子新\第二个例子新\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+D:\C#\ch28\第二个例子新\第二个例子新\TcpServer\TcpServer\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\ch28\第二个例子新\第二个例子新\TcpServer\TcpServer\obj\Debug\TcpServer.Form1.resources
+D:\C#\ch28\第二个例子新\第二个例子新\TcpServer\TcpServer\obj\Debug\TcpServer.Properties.Resources.resources
+D:\C#\ch28\第二个例子新\第二个例子新\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\ch28\ch28源代码\第二个例子——Tcp多线程通信\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+C:\Documents and Settings\Administrator\桌面\ch28\ch28源代码\第二个例子——Tcp多线程通信\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
+C:\Documents and Settings\Administrator\桌面\ch28\ch28源代码\第二个例子——Tcp多线程通信\TcpServer\TcpServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ch28\ch28源代码\第二个例子——Tcp多线程通信\TcpServer\TcpServer\obj\Debug\TcpServer.Form1.resources
+C:\Documents and Settings\Administrator\桌面\ch28\ch28源代码\第二个例子——Tcp多线程通信\TcpServer\TcpServer\obj\Debug\TcpServer.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\ch28\ch28源代码\第二个例子——Tcp多线程通信\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\ch28\ch28源代码\第二个例子——Tcp多线程通信\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+C:\Documents and Settings\Administrator\桌面\ch28\ch28源代码\第二个例子——Tcp多线程通信\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+C:\Documents and Settings\Administrator.01297052961B4D8\My Documents\My Dropbox\资料库\bobocbo\光盘\源代码\28\Tcp多线程通信\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+C:\Documents and Settings\Administrator.01297052961B4D8\My Documents\My Dropbox\资料库\bobocbo\光盘\源代码\28\Tcp多线程通信\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
+D:\CSharp\Demo\ch13\Tcp多线程通信\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+D:\CSharp\Demo\ch13\Tcp多线程通信\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
+D:\CSharp\Demo\ch13\Tcp多线程通信\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+D:\CSharp\Demo\ch13\Tcp多线程通信\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+D:\CSharp\Demo\ch13\Tcp多线程通信\TcpServer\TcpServer\obj\Debug\ResolveAssemblyReference.cache
+D:\CSharp\Demo\ch13\Tcp多线程通信\TcpServer\TcpServer\obj\Debug\TcpServer.Form1.resources
+D:\CSharp\Demo\ch13\Tcp多线程通信\TcpServer\TcpServer\obj\Debug\TcpServer.Properties.Resources.resources
+D:\CSharp\Demo\ch13\Tcp多线程通信\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Tcp多线程通信\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+C:\Users\Administrator\Desktop\Tcp多线程通信\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
+C:\Users\Administrator\Desktop\Tcp多线程通信\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+C:\Users\Administrator\Desktop\Tcp多线程通信\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+C:\Users\Administrator\Desktop\Tcp多线程通信\TcpServer\TcpServer\obj\Debug\TcpServer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Tcp多线程通信\TcpServer\TcpServer\obj\Debug\TcpServer.Form1.resources
+C:\Users\Administrator\Desktop\Tcp多线程通信\TcpServer\TcpServer\obj\Debug\TcpServer.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Tcp多线程通信\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.GenerateResource.Cache
+E:\实验室\Work\Tcp\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+E:\实验室\Work\Tcp\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
+E:\实验室\Work\Tcp\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+E:\实验室\Work\Tcp\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+E:\实验室\Work\Tcp\TcpServer\TcpServer\obj\Debug\TcpServer.csprojResolveAssemblyReference.cache
+E:\实验室\Work\Tcp\TcpServer\TcpServer\obj\Debug\TcpServer.Form1.resources
+E:\实验室\Work\Tcp\TcpServer\TcpServer\obj\Debug\TcpServer.Properties.Resources.resources
+E:\实验室\Work\Tcp\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.GenerateResource.Cache
+I:\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+I:\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
+I:\TcpServer\TcpServer\bin\Debug\TcpServer.exe
+I:\TcpServer\TcpServer\bin\Debug\TcpServer.pdb
+I:\TcpServer\TcpServer\obj\Debug\TcpServer.csprojResolveAssemblyReference.cache
+I:\TcpServer\TcpServer\obj\Debug\TcpServer.Form1.resources
+I:\TcpServer\TcpServer\obj\Debug\TcpServer.Properties.Resources.resources
+I:\TcpServer\TcpServer\obj\Debug\TcpServer.csproj.GenerateResource.Cache
+E:\Projects\ProjectOk\TcpServer\TcpServer\obj\Debug\TcpServer.exe
+E:\Projects\ProjectOk\TcpServer\TcpServer\obj\Debug\TcpServer.pdb
